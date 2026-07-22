@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=181511&title_color=E8A33D&icon_color=3FA796&text_color=EDE7DD&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HenryPaul11&show_icons=true&theme=dark&hide_border=true&bg_color=181511&title_color=E8A33D&icon_color=3FA796&text_color=EDE7DD&count_private=true" alt="GitHub Stats"/>
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&bg_color=181511&color=E8A33D&line=3FA796&point=EDE7DD&hide_border=true" alt="Gráfico de actividad"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HenryPaul11&theme=react-dark&bg_color=181511&color=E8A33D&line=3FA796&point=EDE7DD&hide_border=true" alt="Gráfico de actividad"/>
 
 </div>
 
