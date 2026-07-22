@@ -1,4 +1,8 @@
-<div align="center"> <img src="./assets/banner.svg" alt="Henry - Banner" width="100%"/> <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E8A33D&center=true&vCenter=true&width=400&lines=FULLSTACK" alt="Typing SVG" /> </div> <br/>
+<div align="center"> 
+ <img src="./banner.png" alt="Henry - Banner" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E8A33D&center=true&vCenter=true&width=400&lines=FULLSTACK" alt="Typing SVG" /> 
+</div> 
+<br/>
 
 <br/>
 
