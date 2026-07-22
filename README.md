@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true&background=181511&stroke=3FA796&ring=E8A33D&fire=E8A33D&currStreakLabel=EDE7DD&sideLabels=8FA79E&currStreakNum=EDE7DD&sideNums=EDE7DD&dates=8FA79E" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HenryPaul11&theme=dark&hide_border=true&background=181511&stroke=3FA796&ring=E8A33D&fire=E8A33D&currStreakLabel=EDE7DD&sideLabels=8FA79E&currStreakNum=EDE7DD&sideNums=EDE7DD&dates=8FA79E" alt="GitHub Streak"/>
 
 </div>
 
