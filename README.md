@@ -17,8 +17,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HenryPaul11&show_icons=true&theme=dark&hide_border=true&bg_color=181511&title_color=E8A33D&icon_color=3FA796&text_color=EDE7DD&count_private=true" alt="GitHub Stats"/>
-
 </div>
 
 <div align="center">
