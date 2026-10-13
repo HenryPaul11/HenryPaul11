@@ -27,7 +27,7 @@
 </br>
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HenryPaul11&theme=react-dark&bg_color=181511&color=E8A33D&line=3FA796&point=EDE7DD&hide_border=true" alt="Gráfico de actividad"/>
+  <img src="https://vercel.app" alt="Gráfico de radar de actividad" />
 
 </div>
 
